@@ -152,11 +152,13 @@ footer {
 }
 a:hover{
     font-size:25px;
+  transition:1s linear;
 }
 .img:hover{
     opacity:100%;
     width:250px;
     height:200px;
+  transition:1s linear;
 }
 .more{
   color: white;
